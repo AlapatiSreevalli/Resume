@@ -13,7 +13,7 @@
 
 **B-Tech**
 
-- College Name: __Mic College__<br>
+- College Name: __Devineni Venkata Ramana & Dr.Hima Sekhar Mic College Of Technology__<br>
 - Branch: Computer Science Engineering<br>
 - Year Of Study: 2018-2022<br>
 - Percentage: 89.7%<br>
