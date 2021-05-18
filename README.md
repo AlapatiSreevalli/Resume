@@ -59,7 +59,7 @@ Attended a National level Online Quiz On DataBase Management Systems With a Pass
 
 - Reading Books<br>
 - Listening Music<br>
-- 
+ 
 **Strengths & Weaknesses**
 
 - Strengths:
@@ -70,7 +70,7 @@ Attended a National level Online Quiz On DataBase Management Systems With a Pass
 - Weaknesses:
 
     - lack of experience<br>
-    - too sensitive<br>
+    - too sensitive
 
 
 
