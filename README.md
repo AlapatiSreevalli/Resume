@@ -69,7 +69,7 @@ Attended a National level Online Quiz On DataBase Management Systems With a Pass
     - Dedication<br>
 - Weaknesses:
 
-    - lack of experience<br>
+    - too much detail focused<br>
     - too sensitive 
 
 
